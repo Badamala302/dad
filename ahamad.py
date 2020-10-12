@@ -1,19 +1,19 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Badamala302
+name:" Badamala302""
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the main branch
-on:
+on: "fb"
   push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+    branches: [" main ]
+  pull_request:" text"
+    branches: [" main ]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
-jobs:
+jobs: "cloning"
   # This workflow contains a single job called "build"
-  build:
+  build:"child"
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
