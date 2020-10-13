@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name:" ahmad.py""
+ #!/usr/bin/python2
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the main branch
